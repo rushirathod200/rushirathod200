@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Rushi
 
-<!--
-**rushirathod200/rushirathod200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻  backend developer | MERN Stack | AI Enthusiast  
+🚀 Love building tools that solve real-world problems
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushirathod200&show_icons=true&theme=radical)
+
+## 🧠 Currently learning
+- Golang
+- Web3
+- Docker
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
