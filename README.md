@@ -1,21 +1,35 @@
-# 👋 Hi, I'm Rushi
 
-💻  backend developer | MERN Stack | AI Enthusiast  
-🚀 Love building tools that solve real-world problems
+# Yo! I'm Rushi 
 
-## 🔧 Technologies & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📈 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushirathod200&show_icons=true&theme=radical)
+----------
 
-## 🧠 Currently learning
-- Golang
-- Web3
-- Docker
+## 🤖 Quick Runtime Info
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+```bash
+$ whoami
+rushirathod200
+
+$ cat /proc/life/status
+Status: College Student & Code Monkey
+Languages: Node.js, Express, Python, C
+Tools: Docker (my digital pets live here)
+Current Task: Making servers go brrrr
+Coffee Level: 127.0.0.1 (localhost caffeinated)
+
+```
+
+----------
+
+## 🛠️ Tech Stack
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+
+## 📫 Hit Me Up
+
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rushirathod200) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+
