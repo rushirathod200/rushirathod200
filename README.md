@@ -30,6 +30,6 @@ Coffee Level: 127.0.0.1 (localhost caffeinated)
 ## 📫 Hit Me Up
 
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rushirathod200) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushirathod943@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushirathod943@gmail.com)
 
 
