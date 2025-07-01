@@ -11,7 +11,7 @@ $ whoami
 rushirathod200
 
 $ cat /proc/life/status
-Status: College Student & Code Monkey
+Status: College Student & Spider
 Languages: Node.js, Express, Python, C
 Tools: Docker (my digital pets live here)
 Current Task: Making servers go brrrr
