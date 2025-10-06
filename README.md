@@ -12,7 +12,7 @@ rushirathod200
 
 $ cat /proc/life/status
 Status: College Student & Spider
-Languages: Node.js, PHP X, Python, C
+Languages: Node.js, PHP , Python, C
 Current Task: Making servers go brrrr
 Coffee Level: 127.0.0.1 (localhost caffeinated)
 
